@@ -127,7 +127,7 @@ def main():
                 email_file.close()
         
         elif option == '5':
-            username = input(" username: ")
+            username = input("haso_5787")
             
             webbrowser.open('https://twitter.com/search?f=images&vertical=default&q='+username+'')
         
